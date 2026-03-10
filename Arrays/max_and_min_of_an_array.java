@@ -1,3 +1,5 @@
+//Given an array of integers arr[], the task is to find the maximum and minimum elements in the array using the minimum number of comparisons.
+
 import java.util.ArrayList;
 
 class max_and_min_of_an_array {
