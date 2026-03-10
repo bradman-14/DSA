@@ -1,3 +1,5 @@
+//if array contains duplicate elements, return true. Otherwise, return false.
+
 import java.util.Arrays;
 
 class contains_duplicate {
