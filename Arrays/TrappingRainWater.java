@@ -1,4 +1,4 @@
-import java.util.*;
+// tell the amount of rainwater trapped between the bars when the bars are represented as an array of integers where each integer represents the height of the bar
 
 class TrappingRainWater {
 
