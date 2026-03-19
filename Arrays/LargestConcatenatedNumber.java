@@ -1,3 +1,5 @@
+// Given a list of non-negative integers, arrange them such that they form the largest number and return it as a string.
+
 import java.util.Arrays;
 
 public class LargestConcatenatedNumber {
