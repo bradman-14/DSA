@@ -1,3 +1,5 @@
+//Given a string s, return the longest palindromic substring in s.
+
 import java.util.Scanner;
 
 public class LongestPalindrome {
