@@ -1,3 +1,5 @@
+//Given a string s, you have to find the number of palindromic subsequences (need not necessarily be distinct) present in the string s
+
 public class CountPalindromicSubsequences {
 
     // Global variable to store count of palindromic subsequences
