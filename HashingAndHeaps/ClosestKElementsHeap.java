@@ -1,3 +1,5 @@
+//return exactly k elements from the array that are closest to x, excluding x itself if it is present in the array.
+
 package HashingAndHeaps;
 
 import java.util.*;
