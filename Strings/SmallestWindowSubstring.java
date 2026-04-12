@@ -8,7 +8,7 @@ public class SmallestWindowSubstring {
         // Edge case: if s is smaller than p, no solution
         if (s.length() < p.length()) return "";
 
-        // -------------------------------
+        
         // STEP 1: Create frequency array
         // -------------------------------
         // This will store how many times each character is needed

@@ -5,7 +5,7 @@ public class MaxRepeatingNumber {
 
     public static int maxRepeating(int arr[], int n, int k) {
 
-        //  STEP 1: Count frequencies using array itself
+        // 🔁 STEP 1: Count frequencies using array itself
         for (int i = 0; i < n; i++) {
 
             // Get original value (important because values get modified)
@@ -16,8 +16,8 @@ public class MaxRepeatingNumber {
             arr[index] += k;
         }
 
-        //STEP 2: Find index with maximum value
-        //// aur jis index pe maximum value aayi, wahi index apna answer hua 
+        // 🔍 STEP 2: Find index with maximum value
+        // aur jis index pe maximum value aayi, wahi index apna answer hua 
         int max = arr[0];   // assume first is max
         int result = 0;     // store index of max
 
