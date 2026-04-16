@@ -1,3 +1,5 @@
+//Given an array of distinct integers arr[], find the length of the longest subarray which has contiguous elements. The elements can be in any order.
+
 import java.util.*;
 
 class LargestSubarrayWithContiguousElements {
